@@ -5,6 +5,7 @@
 
 # Laravel Nova Select2 Auto-Complete
 
+===
 ##### An auto-completing Laravel Nova search field.
 
 Provides a capability of auto-completed searching for results inside a select input field.
